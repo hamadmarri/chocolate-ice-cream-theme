@@ -6,10 +6,12 @@
 		"url": "https://github.com/hamadmarri/chocolate-ice-cream-theme"
 	},
 	"icon": "logo.png",
-	"categories": ["Themes"],
+	"categories": [
+		"Themes"
+	],
 	"galleryBanner": {
-	"color": "#FFFFFF",
-	"theme": "dark"
+		"color": "#FFFFFF",
+		"theme": "dark"
 	},
 	"engines": {
 		"vscode": ">=0.9.0-pre.1"
@@ -23,5 +25,10 @@
 				"path": "./themes/ChocolateIcecream-color-theme.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "025decfa-86fc-4bff-aa7d-7e91b6478784",
+		"publisherDisplayName": "Hamad Al Marri",
+		"publisherId": "701a217d-21c8-4314-9170-be316eb7d066"
 	}
 }

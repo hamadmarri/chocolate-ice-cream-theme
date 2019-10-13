@@ -1,16 +1,22 @@
-// #5C4042
-// #FFFFDA
-// #CCFFD8
-// #FFB9CF
-// #62B27D
 {
 	"name": "Chocolate Icecream",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#4d343622", 
+		"editor.background": "#4d343622",
+
+		"breadcrumb.background": "#2c2020",
+		"tab.inactiveBackground": "#2c2020",
+		"tab.activeBackground": "#382929",
+		"editorGroupHeader.tabsBackground": "#2c2020",
+
+		"editor.selectionBackground": "#ffc40022",
+		
+
 		"sideBar.background": "#2c2020", 
 		"activityBar.background": "#382929",
-		"activityBarBadge.background": "#A7E4F2",
+		"activityBar.foreground": "#ffc400cc",
+
+		"activityBarBadge.background": "#A7E4F2bb",
 		"activityBarBadge.foreground": "#3d5358",
 		"statusBar.background": "#332525",
 		"notifications.background": "#382929",
@@ -18,6 +24,7 @@
 		"terminal.background": "#241a1a",
 		"panel.background": "#382929",
 		"dropdown.background": "#2c2020",
+		"input.background": "#382929",
 		
 		"editorSuggestWidget.background": "#382929",
 		"editorSuggestWidget.selectedBackground": "#323140",
@@ -193,6 +200,7 @@
 			"scope": "punctuation",
 			"settings": {
 				"foreground": "#DCE4F2"
+				// "foreground": "#ffc400"
 			}
 		},
 		{
