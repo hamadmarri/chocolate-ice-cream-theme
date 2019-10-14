@@ -2,7 +2,7 @@
 	"name": "Chocolate Icecream",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#4d343622",
+		"editor.background": "#36292d",
 
 		"breadcrumb.background": "#2c2020",
 		"tab.inactiveBackground": "#2c2020",
