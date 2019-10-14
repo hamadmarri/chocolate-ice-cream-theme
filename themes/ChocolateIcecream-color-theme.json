@@ -16,13 +16,17 @@
 		"activityBar.background": "#382929",
 		"activityBar.foreground": "#ffc400cc",
 
-		"activityBarBadge.background": "#A7E4F2bb",
+		"activityBarBadge.background": "#A7E4F2",
 		"activityBarBadge.foreground": "#3d5358",
 		"statusBar.background": "#332525",
 		"notifications.background": "#382929",
 		"welcomePage.background": "#4d343622",
 		"terminal.background": "#241a1a",
 		"panel.background": "#382929",
+		
+		"badge.background": "#A7E4F2",
+		"badge.foreground": "#3d5358",
+
 		"dropdown.background": "#2c2020",
 		"input.background": "#382929",
 		
@@ -30,7 +34,10 @@
 		"editorSuggestWidget.selectedBackground": "#323140",
 		"editorSuggestWidget.highlightForeground": "#C9C4FF",
 		"textLink.foreground": "#00B5FF",
-		"editor.foreground": "#FFFFDA"
+		"editor.foreground": "#FFFFDA",
+
+		"list.hoverBackground": "#4d3436",
+		"editor.lineHighlightBackground": "#4d3436",
 	}, 
 	"tokenColors": [
 		{
