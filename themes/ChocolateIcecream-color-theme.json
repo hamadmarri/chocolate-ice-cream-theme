@@ -10,6 +10,7 @@
 		"editorGroupHeader.tabsBackground": "#2c2020",
 
 		"editor.selectionBackground": "#ffc40022",
+		"editor.selectionHighlightBackground": "#ffc40022",
 		
 
 		"sideBar.background": "#2c2020", 
